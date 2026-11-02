@@ -1,0 +1,4 @@
+numpy>=1.24
+scikit-image>=0.21
+matplotlib>=3.7
+# Optional GPU acceleration (NVIDIA): cupy-cuda12x[ctk]
